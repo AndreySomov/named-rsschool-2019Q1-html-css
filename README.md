@@ -1,1 +1,2 @@
-# named-rsschool-2019Q1-html-css
+Andrey Somov
+HTML CSS Basics: https://www.codecademy.com/users/AndreySomov/achievements
